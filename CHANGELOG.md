@@ -15,13 +15,21 @@
 ## [1.0.2] - 2025-04-07
 
 * Modificacion del archivo README.md.
-* Se agregó las carpetas .github/workflows
-    - Se agregó el archivo lint-markdown.yml
-* Se agregó el archivo markdownlint.json (Complemento de la automatizacion "lint-markdown.yml") 
+* Se agregó las carpetas .github/workflows    
+    * Se agregó el archivo lint-markdown.yml
+* Se agregó el archivo markdownlint.json (Complemento de la automatizacion "lint-markdown.yml")
 * Se hace push de la rama "feature/automatizacion".
 
 ## [1.0.3] - 2025-04-07
 
 * Correccion de Error: El nombre de un archivo estaba mal escrito
-    - marksdownlint.json -> .marksdownlint.json
+    * marksdownlint.json -> .marksdownlint.json
     (Si, faltaba un "." xd)
+
+## [1.0.4] - 2025-04-07
+
+* Correccion de Errores: Mala sintaxis en archivos .md
+    * Archivos corregidos:
+        * README.md
+        * CHANGELOG.md
+        * SECURITY.md
