@@ -19,3 +19,9 @@
     - Se agregó el archivo lint-markdown.yml
 * Se agregó el archivo markdownlint.json (Complemento de la automatizacion "lint-markdown.yml") 
 * Se hace push de la rama "feature/automatizacion".
+
+## [1.0.3] - 2025-04-07
+
+* Correccion de Error: El nombre de un archivo estaba mal escrito
+    - marksdownlint.json -> .marksdownlint.json
+    (Si, faltaba un "." xd)
