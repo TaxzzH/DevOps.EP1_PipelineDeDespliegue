@@ -19,11 +19,11 @@ de desarrollar un proyecto, pese a que las formas trabajar moviendose entre rama
 Y un archivo SECURITY para dejar instrucciones sobre que hacer ante fallos y/o bugs encontrados por usuarios.
 
 * Creacion desde la terminal con el comando "git checkout -b" las respectivas ramas del proyecto
-    * main
-    * develop
-    * feature/automatizacion
-    * hotfix/correcciones
+  * main
+  * develop
+  * feature/automatizacion
+  * hotfix/correcciones
 
 * Se ha creado la carpeta github/workflows junto al archivo de automatizacion para la revision de documentos .md que interactuan directamente
-con github, junto a su correspondiente archivo "markdownlint.json", los cuales en conjunto se aseguran de que la sintaxis de estos archivos 
+con github, junto a su correspondiente archivo "markdownlint.json", los cuales en conjunto se aseguran de que la sintaxis de estos archivos
 esté escrita correctamente.
