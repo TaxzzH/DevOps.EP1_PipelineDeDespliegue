@@ -16,7 +16,7 @@
 
 * Modificacion del archivo README.md.
 * Se agregó las carpetas .github/workflows
-    * Se agregó el archivo lint-markdown.yml
+  * Se agregó el archivo lint-markdown.yml
 * Se agregó el archivo markdownlint.json (Complemento de la automatizacion "lint-markdown.yml")
 * Se hace push de la rama "feature/automatizacion".
 
@@ -39,4 +39,10 @@
 * Correccion de Errores: Mala sintaxis en archivos .md
   * Archivos corregidos:
     * README.md
+    * CHANGELOG.md
+
+## [1.0.4b] - 2025-04-07
+
+* Correccion de Errores: Mala sintaxis en archivos .md
+  * Archivos corregidos:
     * CHANGELOG.md
